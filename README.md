@@ -1,2 +1,2 @@
-# platzi-store
-Curso de Pruebas unitarias con Jest
+# shipping-cart-JEST
+Pruebas unitarias con Jest
